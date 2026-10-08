@@ -30,6 +30,16 @@ We added in a start and home screen and an equivalent of a award/ point ranking 
 
 ### ✍️ Reflection
 
+
+
+
+
+
+
+Regarding the visuals, we wanted to emulate retro games and pixel art. I liked underwater themed things, so I volunteered to work on the art.  One challenge was knowing how to place individual pixels to convey shape and lighting, but Issac introduced a technique called 'dithering' which helped create midtones for the water and made it look more interesting.
+
+
+
 <!-- 200–300 words on your process. Write freely — this isn't an essay.
      Some prompts to get you started:
      — What did you set out to make, and how did the result compare?
@@ -37,16 +47,16 @@ We added in a start and home screen and an equivalent of a award/ point ranking 
      — What was your biggest challenge, and how did you work through it?
      — What would you push further if you had more time? -->
 
----
-
-<!-- ─────────────────────────────────────────────────────
-  
-     ### 🧩 Something I'm Proud Of
-     A snippet of code, a design decision, a moment where it clicked.
-     ```js
-     // your code here
-     ```
-
-     ### 🔗 References
+### 🔗 References
      ![screenshot](readme-assets/reference-01.png)
      ![screenshot](readme-assets/reference-02.png)
+
+
+
+### 🧩 Something I'm Proud Of
+     
+
+  
+
+
+     
