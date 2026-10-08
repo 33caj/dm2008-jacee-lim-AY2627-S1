@@ -1,13 +1,15 @@
-# Mini Project — Title
-
-<!-- Replace "Title" with the name of your project, e.g. "Mini Project — Pong Remix" -->
+# Mini Project — Floppy Fish
 
 ---
 
 ### The Project
+This project was made by Jacee and Isaac. We wanted to conceptualize flappy bird as a fish, as it gave us opportunity to play with the physics and artwork while still retaining the core mechanic of the game.
 
-<!-- What did you build and what makes it yours? A few sentences is enough.
-     What did you change, add, or push beyond the scaffold? -->
+The original flappy bird had the pipe image reversed, but we wanted to explore in more depth on how image worked, so we chose stalagmites for the ceiling and corals at the bottom. All of the assets were made by Jacee.
+
+We added in a start and home screen and an equivilant of a award/ point ranking system, instead of a medal, the player gets a fish pun as encouragement depending on the points scored.
+
+
 
 ---
 
