@@ -48,7 +48,7 @@ Regarding the visuals, we wanted to emulate retro games and pixel art. I liked u
      — What would you push further if you had more time? -->
 
 ### 🔗 References
-[screenshot](readme-assets/reference-01.png)
+[screenshot](readme-assets/reference-01.jpg)
 [screenshot](readme-assets/reference-02.png)
 
 
