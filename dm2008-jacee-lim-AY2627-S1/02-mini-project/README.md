@@ -7,7 +7,7 @@ This project was made by Jacee and Isaac. We wanted to conceptualize flappy bird
 
 The original flappy bird had the pipe image reversed, but we wanted to explore in more depth on how image worked, so we chose stalagmites for the ceiling and corals at the bottom. All of the assets were made by Jacee.
 
-We added in a start and home screen and an equivilant of a award/ point ranking system, instead of a medal, the player gets a fish pun as encouragement depending on the points scored.
+We added in a start and home screen and an equivalent of a award/ point ranking system, instead of a medal, the player gets a fish pun as encouragement depending on the points scored.
 
 
 ---
@@ -40,19 +40,7 @@ We added in a start and home screen and an equivilant of a award/ point ranking 
 ---
 
 <!-- ─────────────────────────────────────────────────────
-     GOING FURTHER — want to document more? Try any of these:
-
-     ### ✨ What I Changed
-     A short list of the additions and modifications you made to the scaffold.
-     - Changed the paddle to use mouse tracking instead of keyboard
-     - Redesigned the visual language with a retro CRT aesthetic
-
-     ### 🔍 Code Structure
-     Briefly explain how your files are organised.
-     - `sketch.js` — main game loop
-     - `Ball.js` — ball class with collision logic
-     - `assets/` — sprites and sounds
-
+  
      ### 🧩 Something I'm Proud Of
      A snippet of code, a design decision, a moment where it clicked.
      ```js
@@ -60,5 +48,5 @@ We added in a start and home screen and an equivilant of a award/ point ranking 
      ```
 
      ### 🔗 References
-     Anything that helped or inspired you — tutorials, artworks, tools.
-     ───────────────────────────────────────────────────── -->
+     ![screenshot](readme-assets/reference-01.png)
+     ![screenshot](readme-assets/reference-02.png)
