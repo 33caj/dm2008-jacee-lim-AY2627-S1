@@ -10,18 +10,18 @@ The original flappy bird had the pipe image reversed, but we wanted to explore i
 We added in a start and home screen and an equivilant of a award/ point ranking system, instead of a medal, the player gets a fish pun as encouragement depending on the points scored.
 
 
-
 ---
 
 ### Output
 
-![screenshot](readme-assets/screenshot-01.png)
+![screenshot](readme-assets/screenshot-07.png)
+![screenshot](readme-assets/screenshot-08.png)
 
 <!-- Drop a screenshot or GIF of your finished project.
      Save it to a readme-assets/ folder inside this project folder.
      Got more than one good screenshot? Add them. -->
 
-[Watch Online](https://your-link-here)
+[Watch Online](https://youtube.com/shorts/IpTbBJ9JNMU?si=5DQzasM57MEJP4me)
 
 <!-- Replace the link above with a URL to a screen recording or video of your project.
      ⚠️ Make sure the file or page is set to public before submitting. -->
