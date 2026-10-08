@@ -30,13 +30,18 @@ We added in a start and home screen and an equivalent of a award/ point ranking 
 
 ### ✍️ Reflection
 
-
-
-
-
-
+It was my first time coding a game which was intimidating, but having a teammate made it less daunting.
+At the start, we finalized the base game mechanics together in class, and it helped to talk through each line of code to have a better idea of what they did.
+After that, we split up to work on the visuals and the sound.
 
 Regarding the visuals, we wanted to emulate retro games and pixel art. I liked underwater themed things, so I volunteered to work on the art.  One challenge was knowing how to place individual pixels to convey shape and lighting, but Issac introduced a technique called 'dithering' which helped create midtones for the water and made it look more interesting.
+
+[BG progress pic 1](readme-assets/bg-01.jpg)
+[BG progress pic 2](readme-assets/bg-02.png)
+[BG progress pic 3](readme-assets/bg-03.png)
+[final](readme-assets/final.png)
+
+I helped to integrate the game assets 
 
 
 
