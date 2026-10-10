@@ -30,19 +30,27 @@ We added in a start and home screen and an equivalent of a award/ point ranking 
 
 ### ✍️ Reflection
 
-It was my first time coding a game which was intimidating, but having a teammate made it less daunting.
-At the start, we finalized the base game mechanics together in class, and it helped to talk through each line of code to have a better idea of what they did.
-After that, we split up to work on the visuals and the sound.
+It was my first time coding a game which was intimidating, but having a teammate made it less daunting. At the start, we finalized the base game mechanics together in class, and it helped to talk through each line of code to have a better idea of what they did.
 
-Regarding the visuals, we wanted to emulate retro games and pixel art. I liked underwater themed things, so I volunteered to work on the art.  One challenge was knowing how to place individual pixels to convey shape and lighting, but Issac introduced a technique called 'dithering' which helped create midtones for the water and made it look more interesting.
+One helpful resource was p5.js's reference page. It assisted me in adding our first button (restart) with createButton(). I remember thinking that all we had to do was create the button in the setup function, but learned that we needed .show() to display the button in the gameover state and .hide() to remove it in the playing state. There were often more steps to take than I initially expected.
+
+After that, we split up to work on the visuals and sound.
+
+Regarding the visuals, we wanted to emulate retro games and pixel art. I like underwater themes, so I volunteered to work on the art. One challenge was knowing how to place individual pixels to convey shape and lighting. Isaac also introduced a technique called 'dithering' which helped create midtones for the water and made gradients which made it look more watery.
 
 [BG progress pic 1](readme-assets/bg-01.jpg)
 [BG progress pic 2](readme-assets/bg-02.png)
 [BG progress pic 3](readme-assets/bg-03.png)
 [final](readme-assets/final.png)
 
-I helped to integrate the game assets 
+I mainly helped to integrate the visual assets into the game. 
 
+Some challenges faced included understanding the scrolling background and how to make it loop. We learned to put two copies of the image side by side, and when the first moves fully off screen it jumps back by one image width, which makes the loop seamless.
+The stalactite image was also flickering and stretching. We resolved this by having the image slightly larger than the hitbox.
+
+This miniproject taught me that games are built on many small, connected steps, and that a feature is rarely finished when it first appears. It was really encouraging looking back at our progress. If I did it again, I would plan the visuals and the code structure together earlier, and I’d include a hard mode, with this hellish version of the bg I accidentally created while playing around with blend modes.
+
+[hell version](readme-assets/hell.jpg)
 
 
 <!-- 200–300 words on your process. Write freely — this isn't an essay.
@@ -56,9 +64,6 @@ I helped to integrate the game assets
 [screenshot](readme-assets/reference-01.jpg)
 [screenshot](readme-assets/reference-02.png)
 
-
-
-### 🧩 Something I'm Proud Of
      
 
   
