@@ -1,4 +1,4 @@
-# DM2008 — Firstname Lastname
+# DM2008 — Lim Yu'en Jacee
 
 **Course:** DM2008: Programming for Interaction  
 **Academic Year:** AY2526 Semester 2  
@@ -29,7 +29,8 @@ This is my personal mono-repo for DM2008. It contains all my work across the sem
 
 <!-- Optional: Showcase your favourite output from the semester here -->
 <!-- Add a screenshot or a short description of your best work -->
+![screenshot](readme-assets/miniproj.png)
 
 ---
 
-_For teaching and learning purposes only. All work © <your name here>._
+_For teaching and learning purposes only. All work © <Lim Yu'en Jacee>._
