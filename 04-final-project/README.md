@@ -1,4 +1,4 @@
-# Final Project — Title
+# Final Project — Planet Maker
 
 <!-- Replace "Title" with the name of your project -->
 
