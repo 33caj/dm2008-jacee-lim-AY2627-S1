@@ -10,8 +10,8 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | < A white rat made using rectangles and ellipses |
-| `1b`     | <!-- Cool ellipse and rectangle animations --> |
+| `1a`     | A white rat made using rectangles and ellipses |
+| `1b`     | Cool ellipse and rectangle animations |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -23,6 +23,7 @@
      A few sentences is all you need — write it like a journal entry, not a report. -->
 
 Activity 1a was a fun introduction to drawing using code. I made a rat because they're really cute. One thing I struggled with is knowing what coordinates to type, to place the body parts relative to the body. I had to keep changing the numbers and refreshing the sketch to see if placed them correctly.
+
 For activity 1b I chose to build on Georg Nees. It's interesting that just reducing the opacity of the shapes being drawn can easily give the animation such a cool fading effect.
 
 ---
@@ -31,20 +32,31 @@ For activity 1b I chose to build on Georg Nees. It's interesting that just reduc
 
 1a — Simple Creatures
 ![screenshot](1a/firstattempt.png)
+
 ![screenshot](1a/final.png)
 
 
 1b — Learning by Making
 ![screenshot](1b/activity1b-image.png)
+
 ![screenshot](1b/activity1b-image (2).png)
+
 ![screenshot](1b/activity1b-image (3).png)
+
 ![screenshot](1b/activity1b-image (4).png)
+
 ![screenshot](1b/activity1b-image (5).png)
+
 ![screenshot](1b/activity1b-image (6).png)
+
 ![screenshot](1b/activity1b-image (7).png)
+
 ![screenshot](1b/activity1b-image (8).png)
+
 ![screenshot](1b/activity1b-image (9).png)
+
 ![screenshot](1b/activity1b-image (10).png)
+
 ![screenshot](1b/activity1b-image (11).png)
 
 ![video](1b/activity1b-video.mp4)
