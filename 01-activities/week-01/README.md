@@ -1,4 +1,4 @@
-# Week 03 ## — Introduction to Creative Coding
+# Week 01 ## — Introduction to Creative Coding
 
 <!-- Replace ## with the week number and Topic Name with the week's focus -->
 <!-- You may also refer to each week's slide for the Topic Name -->
@@ -31,33 +31,34 @@ For activity 1b I chose to build on Georg Nees. It's interesting that just reduc
 ### Output
 
 1a — Simple Creatures
-![screenshot](1a/firstattempt.png)
+
+![screenshot](1a/first attempt.png)
 
 ![screenshot](1a/final.png)
 
 
 1b — Learning by Making
-![screenshot](1b/activity1b-image.png)
+![screenshot](1b/activity1b-image.jpg)
 
-![screenshot](1b/activity1b-image (2).png)
+![screenshot](1b/activity1b-image (2).jpg)
 
-![screenshot](1b/activity1b-image (3).png)
+![screenshot](1b/activity1b-image (3).jpg)
 
-![screenshot](1b/activity1b-image (4).png)
+![screenshot](1b/activity1b-image (4).jpg)
 
-![screenshot](1b/activity1b-image (5).png)
+![screenshot](1b/activity1b-image (5).jpg)
 
-![screenshot](1b/activity1b-image (6).png)
+![screenshot](1b/activity1b-image (6).jpg)
 
-![screenshot](1b/activity1b-image (7).png)
+![screenshot](1b/activity1b-image (7).jpg)
 
-![screenshot](1b/activity1b-image (8).png)
+![screenshot](1b/activity1b-image (8).jpg)
 
-![screenshot](1b/activity1b-image (9).png)
+![screenshot](1b/activity1b-image (9).jpg)
 
-![screenshot](1b/activity1b-image (10).png)
+![screenshot](1b/activity1b-image (10).jpg)
 
-![screenshot](1b/activity1b-image (11).png)
+![screenshot](1b/activity1b-image (11).jpg)
 
 ![video](1b/activity1b-video.mp4)
 
