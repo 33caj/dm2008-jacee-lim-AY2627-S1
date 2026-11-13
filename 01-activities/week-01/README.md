@@ -32,7 +32,8 @@ For activity 1b I chose to build on Georg Nees. It's interesting that just reduc
 
 1a — Simple Creatures
 
-![screenshot](1a/first attempt.png)
+![screenshot](1a/firstattempt.png)
+first attempt haha
 
 ![screenshot](1a/final.png)
 
