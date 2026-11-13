@@ -1,4 +1,4 @@
-# Week 01 ## — Introduction to Creative Coding
+# Week 01 — Introduction to Creative Coding
 
 <!-- Replace ## with the week number and Topic Name with the week's focus -->
 <!-- You may also refer to each week's slide for the Topic Name -->
@@ -41,25 +41,25 @@ first attempt haha
 1b — Learning by Making
 ![screenshot](1b/activity1b-image.jpg)
 
-![screenshot](1b/activity1b-image (2).jpg)
+![screenshot](1b/activity1b-image(2).jpg)
 
-![screenshot](1b/activity1b-image (3).jpg)
+![screenshot](1b/activity1b-image(3).jpg)
 
-![screenshot](1b/activity1b-image (4).jpg)
+![screenshot](1b/activity1b-image(4).jpg)
 
-![screenshot](1b/activity1b-image (5).jpg)
+![screenshot](1b/activity1b-image(5).jpg)
 
-![screenshot](1b/activity1b-image (6).jpg)
+![screenshot](1b/activity1b-image(6).jpg)
 
-![screenshot](1b/activity1b-image (7).jpg)
+![screenshot](1b/activity1b-image(7).jpg)
 
-![screenshot](1b/activity1b-image (8).jpg)
+![screenshot](1b/activity1b-image(8).jpg)
 
-![screenshot](1b/activity1b-image (9).jpg)
+![screenshot](1b/activity1b-image(9).jpg)
 
-![screenshot](1b/activity1b-image (10).jpg)
+![screenshot](1b/activity1b-image(10).jpg)
 
-![screenshot](1b/activity1b-image (11).jpg)
+![screenshot](1b/activity1b-image(11).jpg)
 
 ![video](1b/activity1b-video.mp4)
 
