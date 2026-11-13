@@ -24,7 +24,7 @@
 
 Activity 1a was a fun introduction to drawing using code. I made a rat because they're really cute. One thing I struggled with is knowing what coordinates to type, to place the body parts relative to the body. I had to keep changing the numbers and refreshing the sketch to see if placed them correctly.
 
-For activity 1b I chose to build on Georg Nees. It's interesting that just reducing the opacity of the shapes being drawn can easily give the animation such a cool fading effect.
+For activity 1b I chose to build on Georg Nees. It's interesting that just reducing the opacity of the shapes being drawn can easily give the animation such a cool fading effect. I also tried editing the Ryoji Ikeda sample as I had extra time.
 
 ---
 
