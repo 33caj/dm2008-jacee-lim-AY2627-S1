@@ -10,7 +10,7 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | <!-- A white rat made using rectangles and ellipses --> |
+| `1a`     | < A white rat made using rectangles and ellipses |
 | `1b`     | <!-- Cool ellipse and rectangle animations --> |
 
 <!-- Add or remove rows to match the activities for this week. -->
@@ -30,7 +30,7 @@ For activity 1b I chose to build on Georg Nees. It's interesting that just reduc
 ### Output
 
 1a — Simple Creatures
-![screenshot](1a/first attempt.png)
+![screenshot](1a/firstattempt.png)
 ![screenshot](1a/final.png)
 
 
