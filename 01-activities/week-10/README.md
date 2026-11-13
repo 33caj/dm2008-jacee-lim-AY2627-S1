@@ -1,4 +1,4 @@
-# Week ## — Topic Name
+# Week 10 — Topic Name
 
 <!-- Replace ## with the week number and Topic Name with the week's focus -->
 <!-- You may also refer to each week's slide for the Topic Name -->
@@ -10,8 +10,7 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | <!-- one line description --> |
-| `1b`     | <!-- one line description --> |
+| `10`     | <!-- one line description --> |
 
 <!-- Add or remove rows to match the activities for this week. -->
 

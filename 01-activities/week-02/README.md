@@ -1,4 +1,4 @@
-# Week ## — Topic Name
+# Week 02 — Conditionals & Loops
 
 <!-- Replace ## with the week number and Topic Name with the week's focus -->
 <!-- You may also refer to each week's slide for the Topic Name -->
@@ -10,8 +10,8 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | <!-- one line description --> |
-| `1b`     | <!-- one line description --> |
+| `2a`     | <!-- Backgrounds and ellipse that changed with the key pressed  --> |
+| `2b`     | <!-- Yellow spine that turns into marrow --> |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -22,11 +22,29 @@
 <!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
      A few sentences is all you need — write it like a journal entry, not a report. -->
 
+Activity 2a was slightly more difficult than last week where we simply drew shapes. This time there is some math involved, like  "if (x > width + size / 2) { x = 0; }" and it takes some time for my brain to figure out what the code does. I learned about if/else, function keyPressed and mouseIsPressed which were quite easy to grasp.
+
+For 2b, I practiced using a for loop which I think will be really handy if I want to create a grid or pattern instead of writing the same code over and over. At first I didn't know what exactly I was gonna make but as I offset each row of shapes I ended up creating an interesting spine. 
+
+
 ---
 
 ### Output
 
-![screenshot](readme-assets/output.png)
+2a — Mode Switch
+![screenshot](2a/activity2a-image.png)
+
+![video](2a/activity2a-video.mp4)
+
+
+2b — Pattern Making
+
+![screenshot](2b/activity2b-image(2).png)
+
+![screenshot](2b/activity2b-image(3).png)
+
+![screenshot](2b/activity2b-image(4).png)
+
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.

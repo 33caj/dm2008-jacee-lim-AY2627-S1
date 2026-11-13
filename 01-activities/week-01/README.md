@@ -1,4 +1,4 @@
-# Week 01 — Introduction to Creative Coding
+# Week 01 — Basics & Drawing with Code
 
 <!-- Replace ## with the week number and Topic Name with the week's focus -->
 <!-- You may also refer to each week's slide for the Topic Name -->
