@@ -1,4 +1,4 @@
-# Week ## — Topic Name
+# Week 03 ## — Introduction to Creative Coding
 
 <!-- Replace ## with the week number and Topic Name with the week's focus -->
 <!-- You may also refer to each week's slide for the Topic Name -->
@@ -10,8 +10,8 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | <!-- one line description --> |
-| `1b`     | <!-- one line description --> |
+| `1a`     | <!-- A white rat made using rectangles and ellipses --> |
+| `1b`     | <!-- Cool ellipse and rectangle animations --> |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -22,11 +22,32 @@
 <!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
      A few sentences is all you need — write it like a journal entry, not a report. -->
 
+Activity 1a was a fun introduction to drawing using code. I made a rat because they're really cute. One thing I struggled with is knowing what coordinates to type, to place the body parts relative to the body. I had to keep changing the numbers and refreshing the sketch to see if placed them correctly.
+For activity 1b I chose to build on Georg Nees. It's interesting that just reducing the opacity of the shapes being drawn can easily give the animation such a cool fading effect.
+
 ---
 
 ### Output
 
-![screenshot](readme-assets/output.png)
+1a — Simple Creatures
+![screenshot](1a/first attempt.png)
+![screenshot](1a/final.png)
+
+
+1b — Learning by Making
+![screenshot](1b/activity1b-image.png)
+![screenshot](1b/activity1b-image (2).png)
+![screenshot](1b/activity1b-image (3).png)
+![screenshot](1b/activity1b-image (4).png)
+![screenshot](1b/activity1b-image (5).png)
+![screenshot](1b/activity1b-image (6).png)
+![screenshot](1b/activity1b-image (7).png)
+![screenshot](1b/activity1b-image (8).png)
+![screenshot](1b/activity1b-image (9).png)
+![screenshot](1b/activity1b-image (10).png)
+![screenshot](1b/activity1b-image (11).png)
+
+![video](1b/activity1b-video.mp4)
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
