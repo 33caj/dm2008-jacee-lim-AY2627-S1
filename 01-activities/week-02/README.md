@@ -10,8 +10,8 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `2a`     | <!-- Backgrounds and ellipse that changed with the key pressed  --> |
-| `2b`     | <!-- Yellow spine that turns into marrow --> |
+| `2a`     | Backgrounds and ellipse that changed with the key pressed  |
+| `2b`     | Yellow spine that turns into marrow |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
