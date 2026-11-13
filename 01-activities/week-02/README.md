@@ -32,6 +32,7 @@ For 2b, I practiced using a for loop which I think will be really handy if I wan
 ### Output
 
 2a — Mode Switch
+
 ![screenshot](2a/activity2a-image.png)
 
 ![video](2a/activity2a-video.mp4)
