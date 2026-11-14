@@ -10,8 +10,8 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `4a`     | <!-- one line description --> |
-| `4b`     | <!-- one line description --> |
+| `4a`     | 4 flavour cookie |
+| `4b`     |  Flashing bouncy balls  |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -21,15 +21,40 @@
 
 <!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
      A few sentences is all you need — write it like a journal entry, not a report. -->
+This week I learned that objects in a game can be thought of as a 'guy' with properties (stats) and methods (actions): a group of related data that's packaged
+A Class = template for creating objects 
+	- Named using UpperCamelCase (first letter is capitalized)
+
+Every class begins with a constructor ( )
+Defines the initial properties or ''shape''
+
+In activity 4a I tested out classes by creating a cookie class which changes its flavor/colour when the mouse is pressed, by calling cookie.randomFlavor(). calling that method picks a random word in this.flavor's array. It was quite confusing to keep jumping here and there and I kept mixing them up.
+
+4b
+
+
+
+
 
 ---
 
 ### Output
 
 4a — Bake a Cookie
-![screenshot](readme-assets/output.png)
+
+![screenshot](4a/activity4a-image.png)
+![screenshot](4a/activity4a-image(2).png)
+![screenshot](4a/activity4a-image(3).png)
+![screenshot](4a/activity4a-image(4).png)
+
+![video](4a/activity4a-video.mp4)
 
 4b — Objects in Motion
+
+![screenshot](4b/activity4b-image.png)
+![screenshot](4b/activity4b-image(2).png)
+
+![video](4b/activity4b-video.mp4)
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.

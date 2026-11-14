@@ -11,7 +11,7 @@
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
 | `3a`     |  Green ellipses lined up, highlighted with red one by one |
-| `3b`     | one line description |
+| `3b`     | Grid of eyeballs |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
