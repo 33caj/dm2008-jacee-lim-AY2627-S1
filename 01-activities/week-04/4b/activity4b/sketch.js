@@ -83,7 +83,7 @@ class Agent {
       this.dy *= -1;
     }
     if (this.y < 0) {
-      this.dy = -1;
+      this.dy *= -1;
     }
   }
 

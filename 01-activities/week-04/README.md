@@ -22,15 +22,13 @@
 <!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
      A few sentences is all you need — write it like a journal entry, not a report. -->
 This week I learned that objects in a game can be thought of as a 'guy' with properties (stats) and methods (actions): a group of related data that's packaged
-A Class = template for creating objects 
-	- Named using UpperCamelCase (first letter is capitalized)
-
-Every class begins with a constructor ( )
-Defines the initial properties or ''shape''
+- A Class = template for creating objects 
+- It is first named using UpperCamelCase (first letter is capitalized)
+- Every class begins with a constructor ( ) which defines the initial properties or 'shape'
 
 In activity 4a I tested out classes by creating a cookie class which changes its flavor/colour when the mouse is pressed, by calling cookie.randomFlavor(). calling that method picks a random word in this.flavor's array. It was quite confusing to keep jumping here and there and I kept mixing them up.
 
-4b
+4b was a lot trickier and I had to rely a lot on my classmate to complete it. I recalled my knowledge of loops and learned how to animate my classes in draw by calling move() in draw to update their properties as draw runs.
 
 
 
