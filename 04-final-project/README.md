@@ -37,6 +37,8 @@
      — What was your biggest challenge, and how did you work through it?
      — What would you change, add, or explore further given more time? -->
 
+- inspired by Chrome Music Lab
+
 ---
 
 <!-- ─────────────────────────────────────────────────────
@@ -66,4 +68,7 @@
 
      ### 🔗 References
      Tutorials, libraries, artworks, or research that informed your project.
-     ───────────────────────────────────────────────────── -->
+     https://musiclab.chromeexperiments.com/
+     https://paveldogreat.github.io/WebGL-Fluid-Simulation/
+     https://vincentgarreau.com/particles.js/
+     ───────────────────────────────────────────────────── --> 

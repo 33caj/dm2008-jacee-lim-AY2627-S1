@@ -21,6 +21,12 @@
 
 <!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
      A few sentences is all you need — write it like a journal entry, not a report. -->
+This week I learned to give objects behaviours that allow them to react to input and collisions and detect if objects are touching each other/ overlapping.
+Also learned about vectors which store 2 values together, x and y
+- Magnitude = length of the vector AKA speed of the vector
+- Heading = direction the vector is pointing in
+
+
 
 ---
 

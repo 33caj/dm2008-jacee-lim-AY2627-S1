@@ -30,7 +30,8 @@ This is my personal mono-repo for DM2008. It contains all my work across the sem
 <!-- Optional: Showcase your favourite output from the semester here -->
 <!-- Add a screenshot or a short description of your best work -->
 ![screenshot](readme-assets/miniproj.png)
-i am proud of the art and how i managed to understand all the code behind how the game works
+
+i am proud of my first experience with pixel art and first coded game :D
 
 ---
 
