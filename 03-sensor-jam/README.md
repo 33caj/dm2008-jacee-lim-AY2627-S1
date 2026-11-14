@@ -1,4 +1,4 @@
-# Sensor Jam — Thumping Ellipses
+# Sensor Jam — Discombobulated "Pufferfish"
 
 <!-- Replace "Title" with the name of your project, e.g. "Sensor Jam — Theremin Visualiser" -->
 
@@ -9,7 +9,7 @@
 <!-- What does your sketch do, and what physical input drives it?
      How does the sensor data translate into something on screen?
      A few sentences is all you need. -->
-Initially, Isaac, Soonyu and I wanted to make a pufferfish that expands and deflates depending on your hand's proximity to the ultrasonic sensor. We didn't have time to create the features but managed to make a cool fade effect by setting the ellipse opacity to 50.
+Initially, Isaac, Soonyu and I wanted to make a pufferfish that expands and deflates depending on your hand's proximity to the ultrasonic sensor. We didn't have time to create the features but managed to make a cool fade effect by setting the ellipse opacity to 50. It looks like the eyes are popping out of its face.
 
 
 ---
