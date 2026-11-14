@@ -22,6 +22,9 @@
 <!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
      A few sentences is all you need — write it like a journal entry, not a report. -->
 
+ This week I learned how to set variables before the set up e.g "let c;" Then "c = colour(hexcode)" to tie a colour to the letter c
+ Also to keep a shape centered in a setup, use "(width/2, height/2)" instead of having to constantly do math and change the values.
+
 Activity 2a was slightly more difficult than last week where we simply drew shapes. This time there is some math involved, like  "if (x > width + size / 2) { x = 0; }" and it takes some time for my brain to figure out what the code does. I learned about if/else, function keyPressed and mouseIsPressed which were quite easy to grasp.
 
 For 2b, I practiced using a for loop which I think will be really handy if I want to create a grid or pattern instead of writing the same code over and over. At first I didn't know what exactly I was gonna make but as I offset each row of shapes I ended up creating an interesting spine. 

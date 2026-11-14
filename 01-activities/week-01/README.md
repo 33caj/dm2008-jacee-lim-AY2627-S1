@@ -26,6 +26,8 @@ Activity 1a was a fun introduction to drawing using code. I made a rat because t
 
 For activity 1b I chose to build on Georg Nees. It's interesting that just reducing the opacity of the shapes being drawn can easily give the animation such a cool fading effect. I also tried editing the Ryoji Ikeda sample as I had extra time.
 
+Another useful thing I learned was to double slash (//) to leave comments. It's soooo useful for helping me remember what my code does.
+
 ---
 
 ### Output
