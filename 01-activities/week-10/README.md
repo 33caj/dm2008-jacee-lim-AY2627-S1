@@ -10,7 +10,7 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `10`     | <!-- one line description --> |
+| `10`     |  one line description|
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -21,6 +21,7 @@
 <!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
      A few sentences is all you need — write it like a journal entry, not a report. -->
 This week was a nice change of pace from the last few weeks. Learning how to implement ui like sliders and buttons was relatively simple and straightforward as I had created buttons before for my mini project. 
+
 New stuff I learned was how to group them together with createDiv() and .parent(), and that I could style the ui in CSS and then call it in the sketch instead of having to create a .style method for every visual change.
 
 I feel that the addition of such ui is a simple yet effective addition that makes a piece of work go from being passive to interactive and hence more memorable.
