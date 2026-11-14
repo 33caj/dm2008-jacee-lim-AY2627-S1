@@ -10,7 +10,7 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `10`     |  one line description|
+| `10`     |  Simple control panel |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -25,6 +25,7 @@ This week was a nice change of pace from the last few weeks. Learning how to imp
 New stuff I learned was how to group them together with createDiv() and .parent(), and that I could style the ui in CSS and then call it in the sketch instead of having to create a .style method for every visual change.
 
 I feel that the addition of such ui is a simple yet effective addition that makes a piece of work go from being passive to interactive and hence more memorable.
+
 ---
 
 ### Output
