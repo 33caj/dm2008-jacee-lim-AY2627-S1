@@ -36,7 +36,7 @@ I feel that the addition of such ui is a simple yet effective addition that make
 
 ![screenshot](progress/activity10-image(3).png)
 
-![screenshot](progress/activity10-video.mp4)
+![video](progress/activity10-video.mp4)
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
