@@ -23,6 +23,7 @@
      A few sentences is all you need — write it like a journal entry, not a report. -->
 
 This week I learned about the anatomy of an arduino board, the functions of each pin:
+
 Digital pins: ON/OFF
 Power pins: Give electricity to sensors and LEDs
 Analog pins: A range, A0-A5
