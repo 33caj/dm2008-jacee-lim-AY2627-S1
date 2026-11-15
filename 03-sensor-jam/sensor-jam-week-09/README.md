@@ -22,7 +22,7 @@ _Rename the main folder when you duplicate this for your own projects!_
 | Movement feels jumpy | Use Option 2 (`lerp`) in `sketch.js`, or lower the Arduino `delay()` |
 
 ## Your project notes
-
-Document your project here: what it does, what sensor you used, and how the data maps to the visual.
 Arduino reads an ultrasonic sensor and sends the value to a p5.js sketch over serial. The sketch draws an ellipse with "eyes". As my hand moves closer, the ellipse grows and its color shifts from yellow to purple. As I move away, it will shrink.
+
+
 ---
