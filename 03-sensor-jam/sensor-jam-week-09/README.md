@@ -1,4 +1,4 @@
-# Sensor Jam Template
+# Sensor Jam-week09
 
 A p5.js sketch that receives sensor data from an Arduino over USB (Web Serial) and uses it to change a visual. Use it with the Week 9 Arduino activities.
 
@@ -24,5 +24,5 @@ _Rename the main folder when you duplicate this for your own projects!_
 ## Your project notes
 
 Document your project here: what it does, what sensor you used, and how the data maps to the visual.
-
+Arduino reads an ultrasonic sensor and sends the value to a p5.js sketch over serial. The sketch draws an ellipse with "eyes". As my hand moves closer, the ellipse grows and its color shifts from yellow to purple. As I move away, it will shrink.
 ---

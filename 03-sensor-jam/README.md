@@ -20,6 +20,8 @@ Initially, Isaac, Soonyu and I wanted to make a pufferfish that expands and defl
 
 ![screenshot](sensor-jam-week-09/documentation/sensorjam-image(2).png)
 
+![screenshot](sensor-jam-week-09/documentation/sensorjam-setup.jpg)
+
 <!-- Drop a screenshot or GIF of your sketch in action.
      Got a photo of your physical setup too? Throw it in.
      Save everything to a readme-assets/ folder inside this project folder. -->
