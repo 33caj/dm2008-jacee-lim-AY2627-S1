@@ -10,7 +10,7 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `5a`     | <!-- one line description --> |
+| `5a`     | Bouncy blue ellipses that turn red when they overlap |
 
 
 <!-- Add or remove rows to match the activities for this week. -->
@@ -26,6 +26,7 @@ Also learned about vectors which store 2 values together, x and y
 - Magnitude = length of the vector AKA speed of the vector
 - Heading = direction the vector is pointing in
 
+Activity 5a was tricky especially the math portion that made the balls bounce. A lot of times I had to pause and repeat it out loud, like "if this.pos.x is more than width minus this.r, then this happens..."
 
 
 ---
@@ -34,7 +35,10 @@ Also learned about vectors which store 2 values together, x and y
 
 
 5a — Colliding Circles
-![screenshot](readme-assets/output.png)
+
+![screenshot](readme-assets/activity5a-image.png)
+![screenshot](readme-assets/activity5a-image(2).png)
+![screenshot](readme-assets/activity5a-video.mp4)
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
