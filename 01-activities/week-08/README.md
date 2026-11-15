@@ -25,8 +25,11 @@
 This week I learned about the anatomy of an arduino board, the functions of each pin:
 
 Digital pins: ON/OFF
+
 Power pins: Give electricity to sensors and LEDs
+
 Analog pins: A range, A0-A5
+
 
 p5.js and Arduino follow the same same but different logic e.g p5.js's function setup() is Arduino's void setup()
 
