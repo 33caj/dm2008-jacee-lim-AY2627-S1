@@ -9,7 +9,7 @@
 <!-- What is your project and what does it do?
      What experience does it create, and who or what does it respond to?
      A short paragraph is ideal — make it something you'd be happy for anyone to read. -->
-
+Planet Maker is an interactive experience where you can create your own planet by adjusting its characteristics such as its size and temperature using sliders. As you customize its visuals, the melody it plays changes accordingly. Play around and create your own unique world!
 ---
 
 ### Output
@@ -20,7 +20,7 @@
      Got more to show? Add more images — let the work speak for itself.
      Save everything to a readme-assets/ folder inside this project folder. -->
 
-[Watch Online](https://your-link-here)
+[Watch Online](https://youtu.be/4hgHZjjsU2Y)
 
 <!-- Replace the link above with a URL to a screen recording or video of your final project.
      ⚠️ Make sure the file or page is set to public before submitting. -->
