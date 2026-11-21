@@ -52,9 +52,9 @@ the first attempt at creating a starry background with a loop and randomizing th
 
 <!-- 200–300 words on your process and outcome. Write freely — this is your story to tell.
      Some prompts to get you started:
-     — What did you set out to create, and how did the final result compare to your original vision?
+     — What did you set out to create, and how did the final result compare to your original vision? X
      — How is your project structured — what inputs does it respond to and how did you approach the code?
-     — What were your key visual and/or sonic design decisions, and why?
+     — What were your key visual and/or sonic design decisions, and why? X
      — What was your biggest challenge, and how did you work through it?
      — What would you change, add, or explore further given more time? -->
 
@@ -64,6 +64,8 @@ From the start, Isaac, Soonyu and I wanted to create something inspired by the g
 After I looked through the reference websites provided, I found that I particularly enjoyed those experiences that allowed you to experiment with settings to achieve different results, as I wanted to see what result the possible combinations could give me. Especially with music involved, they made for really fun and emotional experiences. Two websites that inspired our idea were [Chrome Music Lab](https://musiclab.chromeexperiments.com/) and [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/). 
 
 A visual style I suggested the group to emulate was that of Kurzgesagt's vector illustrations as I felt it was simple to create with the shapes on p5.js and the clean and solid colours felt suitable for a minimalist space game.
+
+For the audio, we used a bass guitar, drums and synth and worked out which slider would change which aspect of the music like tempo and pitch.
 
 
 
